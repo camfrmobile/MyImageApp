@@ -5,6 +5,12 @@
 //  Created by Trần Văn Cam on 14/11/2022.
 //
 
+/*
+ MARK: Tạo ứng dụng xem ảnh,
+ - Cơ bản: Hiển thị ảnh theo dạng lưới, phân chia thành các section theo ngày tháng năm.
+ - Nâng cao: Nhấn vào ảnh có thể xem chi tiết được ảnh, có thể zoom ảnh
+ */
+
 import UIKit
 
 @main
